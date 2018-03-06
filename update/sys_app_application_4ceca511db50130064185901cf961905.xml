@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Sales Operations</name>
+        <order>950</order>
+        <roles>x_195792_sales_ope.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-14 13:48:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ceca511db50130064185901cf961905</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Sales Operations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_app_application_4ceca511db50130064185901cf961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-28 15:35:15</sys_updated_on>
+        <title>Sales Operations</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

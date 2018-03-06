@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Store Support Matrix" language="en" table="x_195792_sales_ope_x_195792_store_support_matrix">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Store Support Matrix</label>
+            <language>en</language>
+            <name>x_195792_sales_ope_x_195792_store_support_matrix</name>
+            <plural>Store Support Matrixes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-16 13:40:40</sys_created_on>
+            <sys_id>383eb37ddb10130064185901cf96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Store Support Matrix</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_195792_sales_ope_x_195792_store_support_matrix__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-16 13:40:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

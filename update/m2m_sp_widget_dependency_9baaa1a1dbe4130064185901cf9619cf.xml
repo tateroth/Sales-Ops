@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="sp_codemirror_includes">016f19255b301200e39fc7ad31f91abd</sp_dependency>
+        <sp_widget display_value="SC Order Guide Sales Portal">5faaa921dbe4130064185901cf961927</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-27 18:33:21</sys_created_on>
+        <sys_id>9baaa1a1dbe4130064185901cf9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sp_codemirror_includes.SC Order Guide Sales Portal</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_9baaa1a1dbe4130064185901cf9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-27 18:33:21</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>200</order>
+        <question display_value="Quantity">c3193819db24130064185901cf9619a5</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-26 20:46:19</sys_created_on>
+        <sys_id>f27fb81ddb24130064185901cf96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>question_choice_f27fb81ddb24130064185901cf96193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:46:19</sys_updated_on>
+        <text>2</text>
+        <value>c2_2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f27fb81ddb24130064185901cf96193f"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>f27fb81ddb24130064185901cf96193f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-26 20:46:19</sys_created_on>
+        <sys_id>418ff05ddb24130064185901cf9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:46:19</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>f27fb81ddb24130064185901cf96193f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-26 20:46:19</sys_created_on>
+        <sys_id>098ff05ddb24130064185901cf9619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:46:19</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

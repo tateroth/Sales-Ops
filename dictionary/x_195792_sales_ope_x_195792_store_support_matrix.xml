@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Store Support Matrix" max_length="40" name="x_195792_sales_ope_x_195792_store_support_matrix" type="collection">
+        <element label="Facility support" max_length="32" name="facility_support" reference="core_company" type="reference"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element display="true" label="Store" max_length="32" name="store" reference="sys_user" type="reference"/>
+        <element label="Technical support" max_length="32" name="technical_support" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="technical_support"/>
+        </index>
+        <index name="index2">
+            <element name="facility_support"/>
+        </index>
+        <index name="index3">
+            <element name="store"/>
+        </index>
+    </element>
+</database>

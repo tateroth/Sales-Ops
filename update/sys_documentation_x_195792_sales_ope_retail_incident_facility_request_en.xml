@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="facility_request" label="Facility request" language="en" table="x_195792_sales_ope_retail_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>facility_request</element>
+            <help/>
+            <hint/>
+            <label>Facility request</label>
+            <language>en</language>
+            <name>x_195792_sales_ope_retail_incident</name>
+            <plural>Facility requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-15 20:59:28</sys_created_on>
+            <sys_id>aa095c7ddb90130064185901cf96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Facility request</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_195792_sales_ope_retail_incident_facility_request_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-15 20:59:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

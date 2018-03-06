@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <size/>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">9faaa1a1dbe4130064185901cf9619d9</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-27 18:33:21</sys_created_on>
+        <sys_id>d3aaa1a1dbe4130064185901cf9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sp_column_d3aaa1a1dbe4130064185901cf9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-27 18:33:21</sys_updated_on>
+    </sp_column>
+</record_update>

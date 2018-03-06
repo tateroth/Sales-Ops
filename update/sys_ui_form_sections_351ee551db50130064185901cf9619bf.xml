@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="351ee551db50130064185901cf9619bf" sys_domain="global" table="x_195792_sales_ope_retail_incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-14 13:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd1ee551db50130064185901cf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195792_sales_ope_retail_incident" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">351ee551db50130064185901cf9619bf</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">ca0d615ddb10130064185901cf961977</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-14 13:54:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-14 13:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>751ee551db50130064185901cf9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195792_sales_ope_retail_incident" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">351ee551db50130064185901cf9619bf</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">391ee551db50130064185901cf9619c0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-14 13:54:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-14 14:16:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e033f551db50130064185901cf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195792_sales_ope_retail_incident" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">351ee551db50130064185901cf9619bf</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_195792_sales_ope_retail_incident" sys_domain="global" view="Default view">6433f551db50130064185901cf9619de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-14 14:16:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195792_sales_ope_retail_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-14 13:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>351ee551db50130064185901cf9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195792_sales_ope_retail_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_ui_form_sections_351ee551db50130064185901cf9619bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-14 13:54:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

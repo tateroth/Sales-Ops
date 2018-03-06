@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Change titles to red for easy identification of P1 Retail Incidents</description>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Highlight P1 Retail Incidents</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Set color
+	
+	if (g_form.getValue('priority') == 1){
+	
+		var priorityLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.priority');
+		priorityLabel.style.color = 'red';
+		priorityLabel.style.fontWeight = 'bold';
+		var numberLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.number');
+		numberLabel.style.color = 'red';
+		numberLabel.style.fontWeight = 'bold';
+		var callerLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.caller');
+		callerLabel.style.color = 'red';
+		callerLabel.style.fontWeight = 'bold';
+		var affecteduserLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.affected_user');
+		affecteduserLabel.style.color = 'red';
+		affecteduserLabel.style.fontWeight = 'bold';
+		var phoneLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.phone');
+		phoneLabel.style.color = 'red';
+		phoneLabel.style.fontWeight = 'bold';
+		var locationLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.location');
+		locationLabel.style.color = 'red';
+		locationLabel.style.fontWeight = 'bold';
+		var categoryLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.category');
+		categoryLabel.style.color = 'red';
+		categoryLabel.style.fontWeight = 'bold';
+		var stateLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.state');
+		stateLabel.style.color = 'red';
+		stateLabel.style.fontWeight = 'bold';
+		var groupLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.assignment_group');
+		groupLabel.style.color = 'red';
+		groupLabel.style.fontWeight = 'bold';
+		var assignedtoLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.assigned_to');
+		assignedtoLabel.style.color = 'red';
+		assignedtoLabel.style.fontWeight = 'bold';
+		var problemLabel = g_form.getLabel('x_195792_sales_ope_retail_incident.problem_id');
+		problemLabel.style.color = 'red';
+		problemLabel.style.fontWeight = 'bold';
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-19 13:53:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7aecd37adb10130064185901cf961936</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>Highlight P1 Retail Incidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_script_client_7aecd37adb10130064185901cf961936</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-19 14:46:47</sys_updated_on>
+        <table>x_195792_sales_ope_retail_incident</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

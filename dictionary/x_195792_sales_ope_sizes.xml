@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sizes" max_length="40" name="x_195792_sales_ope_sizes" type="collection">
+        <element label="C2" max_length="40" name="c2" type="boolean"/>
+        <element label="C4" max_length="40" name="c4" type="boolean"/>
+        <element label="CSE" max_length="40" name="cse" type="boolean"/>
+        <element label="I10" max_length="40" name="i10" type="boolean"/>
+        <element label="i7" max_length="40" name="i7" type="boolean"/>
+        <element label="ILE" max_length="40" name="ile" type="boolean"/>
+        <element label="K1" max_length="40" name="k1" type="boolean"/>
+        <element label="K2" max_length="40" name="k2" type="boolean"/>
+        <element label="P6" max_length="40" name="p6" type="boolean"/>
+        <element label="R5" max_length="40" name="r5" type="boolean"/>
+        <element display="true" label="Size" max_length="32" name="size" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sales_operations_problem</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-14 19:22:24</sys_created_on>
+        <sys_id>43397edddbd4130064185901cf9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales Operations Problem</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_ui_view_43397edddbd4130064185901cf9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-14 19:22:24</sys_updated_on>
+        <title>Sales Operations Problem</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

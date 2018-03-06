@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>true</client>
+        <comments/>
+        <condition>(current.state != 7|| current.state != 8) &amp;&amp; current.canWrite()</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_style/>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Close</name>
+        <onclick>closeIncident()</onclick>
+        <order>100</order>
+        <script><![CDATA[function closeIncident() {
+	if (g_form.getValue('close_code') == '' || g_form.getValue('close_notes') == ''){
+		alert("You must select a Close code and enter Close notes before closing a Retail Incident");
+		g_tabs2Sections.setActive(1);
+		g_form.setMandatory('close_code', true);
+		g_form.setMandatory('close_notes', true);
+		g_form.getControl('close_code').focus();
+	} 
+	else {
+		g_form.setValue('state', 7);
+		g_form.save();
+	}
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-14 15:23:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c630861ddb50130064185901cf96195a</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>Close</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_ui_action_c630861ddb50130064185901cf96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-14 16:49:46</sys_updated_on>
+        <table>x_195792_sales_ope_retail_incident</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

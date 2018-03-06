@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="Retail Incident" max_length="40" name="x_195792_sales_ope_retail_incident" sizeclass="16" type="collection">
+        <element label="Affected user" max_length="32" name="affected_user" reference="sys_user" type="reference"/>
+        <element label="Caller" mandatory="true" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="40" name="category" type="string">
+            <choice>
+                <element label="Sales Issue" sequence="0" value="Sales Issue"/>
+                <element label="Inquiry" sequence="1" value="Inquiry"/>
+                <element label="Facility Issue" sequence="2" value="Facility Issue"/>
+                <element label="HR Issue" sequence="3" value="HR Issue"/>
+                <element label="Alarm Issue" sequence="4" value="Alarm Issue"/>
+                <element label="Merchandising Issue" sequence="5" value="Merchandising Issue"/>
+                <element label="Customer Dispute" sequence="6" value="Customer Dispute"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Close code" max_length="40" name="close_code" type="string">
+            <choice>
+                <element label="User Training" sequence="0" value="User Training"/>
+                <element label="Duplicate Incident" sequence="1" value="Duplicate Incident"/>
+                <element label="No Fault Found" sequence="2" value="No Fault Found"/>
+                <element label="Solved (Permanently)" sequence="3" value="Solved (Permanently)"/>
+                <element label="Solved (Work Around)" sequence="4" value="Solved (Work Around)"/>
+            </choice>
+        </element>
+        <element label="Facility request" max_length="32" name="facility_request" reference="facilities_request" type="reference"/>
+        <element label="Incident id" max_length="32" name="incident_id" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="75" name="phone" type="string"/>
+        <element label="Problem id" max_length="32" name="problem_id" reference="problem" type="reference"/>
+    </element>
+</database>

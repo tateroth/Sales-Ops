@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="size" label="Size" language="en" table="x_195792_sales_ope_sizes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <help/>
+            <hint/>
+            <label>Size</label>
+            <language>en</language>
+            <name>x_195792_sales_ope_sizes</name>
+            <plural>Sizes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 17:48:20</sys_created_on>
+            <sys_id>8860a969dba4130064185901cf961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Size</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_195792_sales_ope_sizes_size_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 17:48:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

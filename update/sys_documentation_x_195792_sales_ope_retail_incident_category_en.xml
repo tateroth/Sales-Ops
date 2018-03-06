@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="category" label="Category" language="en" table="x_195792_sales_ope_retail_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <help/>
+            <hint/>
+            <label>Category</label>
+            <language>en</language>
+            <name>x_195792_sales_ope_retail_incident</name>
+            <plural>Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-14 13:51:57</sys_created_on>
+            <sys_id>229d2151db50130064185901cf96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Category</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_195792_sales_ope_retail_incident_category_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-14 13:51:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

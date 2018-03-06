@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="p6" label="P6" language="en" table="x_195792_sales_ope_sizes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>p6</element>
+            <help/>
+            <hint/>
+            <label>P6</label>
+            <language>en</language>
+            <name>x_195792_sales_ope_sizes</name>
+            <plural>P6s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 18:09:20</sys_created_on>
+            <sys_id>6f256d6ddba4130064185901cf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>P6</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_documentation_x_195792_sales_ope_sizes_p6_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 18:09:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

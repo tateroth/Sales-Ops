@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Replacement Reasons" max_length="40" name="x_195792_sales_ope_replacement_reasons" type="collection">
+        <element display="true" label="Reason" max_length="32" name="reason" type="string"/>
+        <element choice="1" label="Type" max_length="32" name="type" type="choice">
+            <choice>
+                <element label="Covers" sequence="0" value="Covers"/>
+                <element label="Air Chambers" sequence="1" value="Air Chambers"/>
+                <element label="Foam" sequence="2" value="Foam"/>
+                <element label="Remotes" sequence="3" value="Remotes"/>
+                <element label="FCS" sequence="4" value="FCS"/>
+            </choice>
+        </element>
+    </element>
+</database>

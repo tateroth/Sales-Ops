@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="cisco_ucs_rack_mount_unit_user" name="cisco_ucs_rack_mount_unit_user">ffcb33e9dbc5b6006204546fdf961987</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-02-14 16:02:02</sys_created_on>
+        <sys_id>046bc25ddb90130064185901cf9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ffcb33e9dbc5b6006204546fdf961987</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_embedded_help_role_046bc25ddb90130064185901cf9619d5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-14 16:02:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

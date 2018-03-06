@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sn_hr_core_case" version="2" view="RPTfe5330019f22120047a2d126c42e70f3">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_for</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>7f335f0edb60130064185901cf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_for.title</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>ff335f0edb60130064185901cf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>73335f0edb60130064185901cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_category</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>f3335f0edb60130064185901cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>77335f0edb60130064185901cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>f7335f0edb60130064185901cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="sn_hr_core_case" element="NULL" name="sn_hr_core_case" parent="NULL" relationship="NULL" sys_domain="global" view="7f335f0edb60130064185901cf96195d">3b335f0edb60130064185901cf96195e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_id>7b335f0edb60130064185901cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sn_hr_core_case</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-01 15:27:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b335f0edb60130064185901cf96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_hr_core_case</sys_name>
+            <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+            <sys_update_name>sys_ui_list_sn_hr_core_case_RPTfe5330019f22120047a2d126c42e70f3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-01 15:27:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptfe5330019f22120047a2d126c42e70f3" name="RPTfe5330019f22120047a2d126c42e70f3">7f335f0edb60130064185901cf96195d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

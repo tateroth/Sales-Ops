@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="Cover Order Form">c13245dddb24130064185901cf9619e8</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="ILE Covers">e6a7edaddba4130064185901cf9619bc</item>
+        <order>400</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-27 18:24:47</sys_created_on>
+        <sys_id>daa8e921dbe4130064185901cf9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e6a7edaddba4130064185901cf9619bc</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_daa8e921dbe4130064185901cf9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-27 18:24:47</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

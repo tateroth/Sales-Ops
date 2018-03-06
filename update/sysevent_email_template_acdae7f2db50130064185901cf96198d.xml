@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_195792_sales_ope_retail_incident</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p><span style="font-size: 12pt;">The Sale Operations team has received your reported issue and will be working on resolving it as soon as possible.&nbsp; Here is the information we have;</span></p>
+<p><span style="font-size: 12pt;">Caller: ${caller}</span><br /><span style="font-size: 12pt;">Affected user: ${affected_user}</span><br /><span style="font-size: 12pt;">Short description: ${short_description}</span><br /><span style="font-size: 12pt;">Description: ${description}</span></p>
+<p><span style="font-size: 12pt;">Your Retail Incident reference number is ${number}.</span></p>
+<p><span style="font-size: 12pt;">Click the link to view your Retail Incident: ${mail_script:service_portal_link}&nbsp;You can add notes and attachments to the incident through this view.&nbsp;</span></p>
+<p><span style="font-size: 12pt;">Thank you for reaching out to the Sales Operations team!</span></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Retail Incident created (sent to call)</name>
+        <sms_alternate/>
+        <subject>Your Retail Incident has been received.</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-19 14:59:12</sys_created_on>
+        <sys_id>acdae7f2db50130064185901cf96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Retail Incident created (sent to call)</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sysevent_email_template_acdae7f2db50130064185901cf96198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-19 14:59:12</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

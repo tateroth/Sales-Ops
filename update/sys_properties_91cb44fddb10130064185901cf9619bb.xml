@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Name of the Default Sales Operations Group in the Sales Operations Applications</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_195792_sales_ope.defaultSaleOpsGroup</name>
+        <read_roles/>
+        <suffix>defaultSaleOpsGroup</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-15 20:02:55</sys_created_on>
+        <sys_id>91cb44fddb10130064185901cf9619bb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_195792_sales_ope.defaultSaleOpsGroup</sys_name>
+        <sys_package display_value="Sales Operations" source="x_195792_sales_ope">bbdca111db50130064185901cf961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Operations">bbdca111db50130064185901cf961984</sys_scope>
+        <sys_update_name>sys_properties_91cb44fddb10130064185901cf9619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-15 20:28:11</sys_updated_on>
+        <type>string</type>
+        <value>99eaeb43db6d8b40b5cbf4b5ae961988</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=91cb44fddb10130064185901cf9619bb"/>
+</record_update>
